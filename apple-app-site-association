@@ -3,12 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "9QE68V9YSE.com.example.nimo",
+        "appIDs": ["9QE68V9YSE.com.example.nimo"],
         "paths": ["/profile/*"]
       }
     ]
   }
 }
-
-
-
